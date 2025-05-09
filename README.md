@@ -32,15 +32,15 @@ This project implements a Pose Estimation Model using Python and Mediapipe to ve
 
 ---
 
+##  Folder Structure
+
+```
 pose_estimation/
 ├── main.py
 ├── requirements.txt
 ├── README.md
-├── Pose red.png
-├── Lightning Green.png
-├── All Green.png
-├── Lightning Red.png
-├── Position Green.png
+```
+
 
 
 | Condition   | Description                                                |
@@ -49,20 +49,5 @@ pose_estimation/
 | Pose        | Turns Green when standing upright with hands relaxed        |
 | Position    | Turns Green when subject is facing the camera directly      |
 
-## Sample Output Screenshots
 
-### 1. Lighting Green, Pose Red, Position Red
-![Lighting Green, Pose red, Position Red](lightning Green.png)
-
-### 2. Pose Red, Lighting Green, Position Green
-![Pose red, Lighting Green, Position Green](Pose red.png)
-
-### 3. All Green (Ideal Condition)
-![All Green](All Green.png)
-
-### 4. Lighting Red, Position Green, Pose Green
-![Lighting Red, Position Green, Pose Green](Lightning Red.png)
-
-### 5. Position Green, Lighting Red, Pose Red
-![Position Green, Lighting Red, Pose red](Position Green.png)
 
