@@ -34,13 +34,10 @@ This project implements a Pose Estimation Model using Python and Mediapipe to ve
 
 ##  Folder Structure
 
-```
-pose_estimation/
-├── main.py
-├── requirements.txt
-├── README.md
-```
-
+- `pose_estimation/`
+  - `main.py` – Main script to run pose estimation
+  - `README.md` – This file
+  
 
 
 | Condition   | Description                                                |
